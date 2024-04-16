@@ -1,7 +1,7 @@
 # BIO302_PacBio
 
 ## File location
-All the data needed for your project are available in this Galaxy history **INSERT LINK**. Create a new history and import the 3 files of your species:
+All the data needed for your project are available in [this Galaxy history](https://usegalaxy.org/u/jackpot92/h/bio302-2024-files). Create a new history and import the 3 files of your species:
 * _Hottonia inflata_ (Hin):
   * `Hinflata.hifi.fastq.gz`: PacBio HiFi reads
   * `Hinflata.hic.R1.fastq.gz`, `Hinflata.hic.R2.fastq.gz`: Hi-C reads
