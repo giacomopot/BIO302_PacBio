@@ -5,7 +5,7 @@ As a first step, create a new history and import the data:
 * In the Galaxy main page, click on the "+" symbol next to "History" (top right of the screen).
 * Rename the History as `BIO302 <name of your species>`.
 
-All the data needed for your project are available in [this Galaxy history](https://usegalaxy.org/u/jackpot92/h/bio302-2024-files). Click `Import history` on the tope left of the screen. Depending on which species you will be working on, keep only the files relevant to your project:
+All the data needed for your project are available in [this Galaxy history](https://usegalaxy.org/u/jackpot92/h/bio302-2024-files). Click `Import history` on the top left of the screen. Depending on which species you will be working on, keep only the files relevant to your project:
 * _Hottonia inflata_ (Hin):
   * `Hinflata.hifi.fastq.gz`: PacBio HiFi reads
   * `Hinflata.hic.R1.fastq.gz`, `Hinflata.hic.R2.fastq.gz`: Hi-C reads
